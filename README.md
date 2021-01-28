@@ -14,4 +14,4 @@ And this notebook: https://colab.research.google.com/drive/1oxcJ1tbG77hlggdKd_d8
 
 TADNE is under a CC BY-NC liscence and CLIP is under the MIT Liscence.
 
-Any code in this notebook not otherwise liscenced is herein released under the MIT Liscence.
+Any code in this repository not otherwise liscenced is herein released under the MIT Liscence.
